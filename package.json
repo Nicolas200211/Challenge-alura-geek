@@ -1,0 +1,15 @@
+{
+  "name": "challenge-alura-geek",
+  "version": "1.0.0",
+  "description": "add,delet and view products",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "challenge-alura-geek": "file:",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
